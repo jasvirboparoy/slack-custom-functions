@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T9M0ZK1NC": {
+      "app_id": "A05QRJ72RV0",
+      "IsDev": false,
+      "team_domain": "site-mate",
+      "team_id": "T9M0ZK1NC"
+    }
+  },
+  "default": "site-mate"
+}

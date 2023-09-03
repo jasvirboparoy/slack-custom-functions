@@ -31,6 +31,6 @@ export default SlackFunction(
       const error = `Failed to unpin a message due to ${response.error}`;
       return { error };
     }
-    return { outputs: { ts: response.ts } };
+    return { outputs: {} };
   },
 );
